@@ -5,23 +5,11 @@
 
 ###### I'm Mobile developer/☁️! 😄
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dab246&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dab246&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-flutter-app&theme=radical)](https://github.com/linagora/linshare-mobile-flutter-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-android-app&theme=nightowl)](https://github.com/linagora/linshare-mobile-android-app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dab246&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dab246&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**dab246/dab246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dab246&theme=tokyonight&layout=compactl)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-flutter-app&theme=tokyonight)](https://github.com/linagora/linshare-mobile-flutter-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-android-app&theme=tokyonight)](https://github.com/linagora/linshare-mobile-android-app)
