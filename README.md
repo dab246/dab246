@@ -1,5 +1,16 @@
+
 ### Hi there 👋
 
+###### Sup! Here's **DaB**! 😄
+
+###### I'm Mobile developer/☁️! 😄
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dab246&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-flutter-app&theme=radical)](https://github.com/linagora/linshare-mobile-flutter-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-android-app&theme=nightowl)](https://github.com/linagora/linshare-mobile-android-app)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dab246&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dab246/dab246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
