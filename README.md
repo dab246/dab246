@@ -14,7 +14,7 @@
 
 ### Improvements
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dab246&repo=enough_html_editor&theme=radical)](https://github.com/dab246/enough_html_editor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dab246&repo=html-editor-enhanced&theme=radical)](https://github.com/dab246/html-editor-enhanced)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=enough_html_editor&theme=radical)](https://github.com/linagora/enough_html_editor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=html-editor-enhanced&theme=radical)](https://github.com/linagora/html-editor-enhanced)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dab246&repo=material_tag_editor&theme=radical)](https://github.com/dab246/material_tag_editor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dab246&repo=worker_manager&theme=radical)](https://github.com/dab246/worker_manager)
