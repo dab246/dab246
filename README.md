@@ -8,8 +8,8 @@
 
 <a href="https://github.com/dab246">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Core+contributor+to+Twake+Mail+%40+Linagora;Open-source+author+of+Dart+%26+Flutter+packages;Shipping+faster+with+AI+agents+%26+LLMs&color=2DD4BF" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Core+contributor+to+Twake+Mail+%40+Linagora;Open-source+author+of+Dart+%26+Flutter+packages;Shipping+faster+with+AI+agents+%26+LLMs&color=0969DA" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Core+contributor+to+Twake+Mail+%40+Linagora;Open-source+author+of+Dart+%26+Flutter+packages;Building+AI+agents+that+automate+the+SDLC;Less+toil%2C+faster+releases%2C+same+quality+bar&color=2DD4BF" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Core+contributor+to+Twake+Mail+%40+Linagora;Open-source+author+of+Dart+%26+Flutter+packages;Building+AI+agents+that+automate+the+SDLC;Less+toil%2C+faster+releases%2C+same+quality+bar&color=0969DA" alt="Typing SVG" />
 </picture>
 </a>
 
@@ -35,7 +35,7 @@ class DatVu extends SoftwareEngineer {
     'Cross-platform apps: Android · iOS · Web (Flutter)',
     'Clean architecture, testing & release quality',
     'Protocols & networking: JMAP · DNS · IP',
-    'AI agents & LLM-powered developer workflows',
+    'AI agents that automate the software lifecycle',
   ];
 
   @override
@@ -45,8 +45,8 @@ class DatVu extends SoftwareEngineer {
 
 - 🏆 <!-- ABOUT:START -->**#1 contributor** to **[Twake Mail](https://github.com/linagora/tmail-flutter)** (3.6k+ commits), an open-source, multi-platform email client on the JMAP protocol.<!-- ABOUT:END -->
 - 📦 Maintaining Dart & Flutter packages on **pub.dev** ([see below](#-personal-projects)), from UI widgets to a DNS/IP networking stack.
-- 🤖 Working with AI coding agents every day: agentic workflows, code review automation and evidence-driven QA.
-- 🌱 Currently exploring **MCP**, multi-agent systems and LLM evaluation.
+- 🤖 Learning, researching and building **AI tools that automate the software lifecycle**, from spec to review, QA and release, to cut delivery time without lowering the quality bar ([more](#-ai-powered-engineering)).
+- 🌱 Currently researching **multi-agent orchestration**, **MCP** integrations and **LLM evaluation & guardrails**.
 
 ## 🛠️ Tech Stack
 
@@ -74,6 +74,40 @@ class DatVu extends SoftwareEngineer {
 </picture>
 
 </div>
+
+## 🧠 AI-Powered Engineering
+
+> **Mission:** automate every repeatable step of software delivery with AI agents, so engineers spend their time on design and judgment, not on toil.
+>
+> **Principle:** *AI proposes, deterministic checks decide.* Every agent output is verified by tests, policies or a human before it ships.
+
+```mermaid
+flowchart LR
+    A["📝 Spec"] --> B["💻 Code<br/><sub>coding agents</sub>"]
+    B --> C["🔍 Review<br/><sub>review agent</sub>"]
+    C --> D["🧪 QA<br/><sub>generated tests</sub>"]
+    D --> E(["🚦 Gate"])
+    E -->|GO| F["🚀 Ship"]
+    E -.->|NO_GO| B
+```
+
+### 🛠️ What I'm building
+
+| Tool | What it automates |
+| :--- | :--- |
+| 🧪 [**qa-agent-kit**](https://github.com/dab246/qa-agent-kit) | Evidence-driven QA for pull requests: permission test matrices, a checksummed evidence registry and a **GO / NO_GO release gate**. AI drafts tests and triages failures; only validated results can pass the gate. |
+| 🔍 **Branch review agent** | A Claude Code skill that reviews any MR/PR (GitHub, GitLab, Bitbucket) for architecture, correctness, performance, ReDoS, security and memory leaks, then posts line-anchored comments, fixes the branch or fills missing unit & e2e tests. |
+| 📏 **Agent guardrails** | Shared engineering rules for coding agents: ReDoS checks measured on every regex engine, a content review before every push, consistent commits and review comments. |
+| 🔄 **Self-updating profile** | This README: a GitHub Action ranks my projects and contributions from the GitHub and pub.dev APIs every day. |
+| ✅ **AI quality gates in CI** | CodeRabbit and CodeScene on every PR, so humans review intent while machines catch smells and regressions. |
+
+### 📚 Learning & research
+
+- 🕸️ **Agentic workflows & multi-agent orchestration:** splitting delivery into planner, coder, reviewer and tester agents.
+- 🔌 **Model Context Protocol (MCP):** connecting agents to issue trackers, repos, design files and CI.
+- 📐 **Spec-driven development:** turning specs into tasks, code and tests an agent can verify.
+- 🧮 **LLM evaluation & guardrails:** measuring agent output with deterministic checks instead of trust.
+- 🧠 **Context engineering:** skills, memory and project rules that make agents reliable on large codebases.
 
 ## 🤖 AI Toolkit
 
