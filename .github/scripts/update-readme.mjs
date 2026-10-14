@@ -32,19 +32,21 @@ function githubFetch(path) {
   });
 }
 
+const isRetryable = (res, attempt) => RETRY_STATUSES.has(res.status) && attempt < MAX_ATTEMPTS;
+const retryDelayMs = (res, attempt) => (Number(res.headers.get('retry-after')) || 15 * attempt) * 1000;
+
+async function readJson(res, path, allow404) {
+  if (res.status === 404 && allow404) return null;
+  if (!res.ok) throw new Error(`GitHub ${res.status} on ${path}: ${await res.text()}`);
+  return res.json();
+}
+
 async function gh(path, { allow404 = false } = {}) {
-  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+  for (let attempt = 1; ; attempt++) {
     const res = await githubFetch(path);
-    const retryable = RETRY_STATUSES.has(res.status) && attempt < MAX_ATTEMPTS;
-    if (retryable) {
-      await sleep((Number(res.headers.get('retry-after')) || 15 * attempt) * 1000);
-      continue;
-    }
-    if (res.status === 404 && allow404) return null;
-    if (!res.ok) throw new Error(`GitHub ${res.status} on ${path}: ${await res.text()}`);
-    return res.json();
+    if (!isRetryable(res, attempt)) return readJson(res, path, allow404);
+    await sleep(retryDelayMs(res, attempt));
   }
-  throw new Error(`GitHub retries exhausted on ${path}`);
 }
 
 let lastSearch = 0;
@@ -199,8 +201,8 @@ async function ownRepos() {
 }
 
 function isListedPersonal(info, exclude) {
-  if (info.fork || info.archived || info.private) return false;
-  if (exclude.has(info.name.toLowerCase())) return false;
+  const hidden = [info.fork, info.archived, info.private, exclude.has(info.name.toLowerCase())];
+  if (hidden.some(Boolean)) return false;
   return Boolean(info.description || override(info.full_name).description);
 }
 
