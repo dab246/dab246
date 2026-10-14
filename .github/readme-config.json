@@ -1,0 +1,51 @@
+{
+  "user": "dab246",
+  "org": "linagora",
+  "highlightRepo": "linagora/tmail-flutter",
+  "org_projects": {
+    "limit": 8,
+    "minMergedPrs": 5
+  },
+  "upstream": {
+    "limit": 8,
+    "minMergedPrs": 1,
+    "minForkStars": 10,
+    "prsPerRepo": 3
+  },
+  "personal": {
+    "packagesLimit": 8,
+    "appsLimit": 6,
+    "exclude": ["dab246", "dab246.github.io", "Flutter-Note", "GetX-Flutter", "tmail-refactoring-docs", "battery-calculator"]
+  },
+  "overrides": {
+    "linagora/tmail-flutter": { "name": "Twake Mail", "emoji": "📬", "description": "Multi-platform JMAP email client for Android, iOS and Web" },
+    "linagora/jmap-dart-client": { "emoji": "🔌", "description": "JMAP protocol client library in Dart, the foundation of Twake Mail" },
+    "linagora/linagora-design-flutter": { "emoji": "🎨", "description": "Enterprise UI design language & Flutter component library" },
+    "linagora/flutter-date-range-picker": { "emoji": "📅", "description": "Cross-platform custom date range picker" },
+    "linagora/rich-text-composer": { "emoji": "✍️", "description": "Unified rich text composer powering the mail composer" },
+    "linagora/html-editor-enhanced": { "emoji": "🖋️", "description": "WYSIWYG HTML editor for Flutter (Summernote + InAppWebView)" },
+    "linagora/enough_html_editor": { "emoji": "📝", "description": "API-based HTML editor for Flutter" },
+    "linagora/twake-on-matrix": { "name": "Twake Chat", "emoji": "💬", "description": "Multi-platform Matrix messaging app" },
+    "dsrenesanse/worker_manager": { "emoji": "⚙️" },
+    "tneotia/html-editor-enhanced": { "emoji": "🖋️" },
+    "dint-dev/universal_html": { "emoji": "🌐" },
+    "espresso3389/flutter_pdf_render": { "emoji": "📄" },
+    "solid-software/languagetool_textfield": { "emoji": "📝" },
+    "amake/flutter_charset_detector": { "emoji": "🔤" },
+    "amondnet/dns_client": { "emoji": "🧭" },
+    "Enough-Software/enough_html_editor": { "emoji": "📝" },
+    "CanArslanDev/flutter_scrollable_html": { "emoji": "📜" },
+    "linagora/linshare-mobile-flutter-app": { "name": "LinShare Mobile", "emoji": "📁", "description": "Flutter mobile app for LinShare, an open-source secure file-sharing platform" },
+    "dab246/super_tag_editor": { "emoji": "🏷️", "description": "Tag editor widget for Flutter" },
+    "dab246/super_dns_client": { "emoji": "🌐", "description": "DNS-over-HTTPS (DoH) lookups with multiple resolvers" },
+    "dab246/middle_ellipsis_text": { "emoji": "✂️", "description": "Middle-ellipsis text for filenames & URLs" },
+    "dab246/flutter_super_html_viewer": { "emoji": "🖼️", "description": "Cross-platform HTML viewer widget" },
+    "dab246/super_dns": { "emoji": "🧬", "description": "DNS protocol: query parsing, encoding and responses (IPv4/IPv6)" },
+    "dab246/super_ip": { "emoji": "📡", "description": "IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP" },
+    "dab246/super_raw": { "emoji": "🧱", "description": "Write, read and debug binary data efficiently" },
+    "dab246/super_file_size": { "emoji": "📏", "description": "Human-readable file sizes from raw bytes" },
+    "dab246/qa-agent-kit": { "emoji": "🧪", "description": "Evidence-driven PR QA: deterministic permission tests, evidence registry and a GO/NO_GO release gate" },
+    "dab246/ai-chess-master": { "emoji": "♟️", "description": "Online Chinese chess (Xiangqi): Alpha-Beta search engine, Gemini-powered move analysis & hints, leaderboard", "stack": "React · Gemini" },
+    "dab246/ChronoWork": { "emoji": "⏱️", "description": "Work-hour logging, leave tracking & weekly performance reports" }
+  }
+}
