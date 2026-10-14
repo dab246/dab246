@@ -37,8 +37,8 @@ class DatVu extends SoftwareEngineer {
 }
 ```
 
-- 📬 Building **[Twake Mail](https://github.com/linagora/tmail-flutter)**, an open-source, multi-platform email client on the JMAP protocol.
-- 📦 Maintaining Dart & Flutter packages on **pub.dev** ([see below](#-featured-work)), from UI widgets to a DNS/IP networking stack.
+- 🏆 **#1 contributor** to **[Twake Mail](https://github.com/linagora/tmail-flutter)** (3.6k+ commits), an open-source, multi-platform email client on the JMAP protocol.
+- 📦 Maintaining Dart & Flutter packages on **pub.dev** ([see below](#-personal-projects)), from UI widgets to a DNS/IP networking stack.
 - 🤖 Working with AI coding agents every day: agentic workflows, code review automation and evidence-driven QA.
 - 🌱 Currently exploring **MCP**, multi-agent systems and LLM evaluation.
 
@@ -73,22 +73,58 @@ class DatVu extends SoftwareEngineer {
 
 </div>
 
-## 🚀 Featured Work
+## 🌟 Open Source Highlights
 
 <div align="center">
 
-| Project | Description | Stats |
-| :--- | :--- | :---: |
-| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client (Flutter) | ![stars](https://img.shields.io/github/stars/linagora/tmail-flutter?style=flat-square&color=02C39A) |
-| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | [![pub](https://img.shields.io/pub/v/super_tag_editor?style=flat-square&color=1565C0)](https://pub.dev/packages/super_tag_editor) |
-| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups for Dart & Flutter | [![pub](https://img.shields.io/pub/v/super_dns_client?style=flat-square&color=1565C0)](https://pub.dev/packages/super_dns_client) |
-| 🧬 [**super_dns**](https://github.com/dab246/super_dns) · [**super_ip**](https://github.com/dab246/super_ip) · [**super_raw**](https://github.com/dab246/super_raw) | DNS protocol, IP stack and binary data toolkit for Dart | [![pub](https://img.shields.io/pub/v/super_dns?style=flat-square&color=1565C0)](https://pub.dev/packages/super_dns) |
-| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | [![pub](https://img.shields.io/pub/v/flutter_super_html_viewer?style=flat-square&color=1565C0)](https://pub.dev/packages/flutter_super_html_viewer) |
-| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | [![pub](https://img.shields.io/pub/v/middle_ellipsis_text?style=flat-square&color=1565C0)](https://pub.dev/packages/middle_ellipsis_text) |
-| 🧪 [**qa-agent-kit**](https://github.com/dab246/qa-agent-kit) | Evidence-driven QA kit: permission testing, evidence registry, release gate | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| ⏱️ [**ChronoWork**](https://github.com/dab246/ChronoWork) | Work-hour logging, leave tracking & weekly reports | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+<a href="https://github.com/linagora/tmail-flutter/graphs/contributors"><img src="https://img.shields.io/badge/Twake%20Mail-%231%20contributor-02C39A?style=for-the-badge&logo=github&logoColor=white" alt="#1 contributor" /></a>
+<img src="https://img.shields.io/badge/Commits-3.6k%2B-1565C0?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
+<a href="https://github.com/search?q=author%3Adab246+is%3Apr+is%3Amerged+-user%3Adab246&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-1.3k%2B-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged PRs" /></a>
 
 </div>
+
+### 🏢 Core work at Linagora
+
+| Project | My role | Stats |
+| :--- | :--- | :---: |
+| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | **#1 contributor**: 3.6k+ commits, 1.1k+ merged PRs. Multi-platform JMAP email client for Android, iOS and Web | ![stars](https://img.shields.io/github/stars/linagora/tmail-flutter?style=flat-square&color=02C39A) |
+| 🔌 [**jmap-dart-client**](https://github.com/linagora/jmap-dart-client) | **#1 contributor**: JMAP protocol client library in Dart, the foundation of Twake Mail | ![stars](https://img.shields.io/github/stars/linagora/jmap-dart-client?style=flat-square&color=02C39A) |
+| 🎨 [**linagora-design-flutter**](https://github.com/linagora/linagora-design-flutter) | **#1 contributor**: enterprise UI design language & Flutter component library | ![stars](https://img.shields.io/github/stars/linagora/linagora-design-flutter?style=flat-square&color=02C39A) |
+| 📅 [**flutter-date-range-picker**](https://github.com/linagora/flutter-date-range-picker) | **#1 contributor**: cross-platform custom date range picker | ![stars](https://img.shields.io/github/stars/linagora/flutter-date-range-picker?style=flat-square&color=02C39A) |
+| ✍️ [**rich-text-composer**](https://github.com/linagora/rich-text-composer) · [**html-editor-enhanced**](https://github.com/linagora/html-editor-enhanced) | Rich text & WYSIWYG HTML editors powering the mail composer | ![stars](https://img.shields.io/github/stars/linagora/rich-text-composer?style=flat-square&color=02C39A) |
+
+### 🌍 Upstream contributions
+
+| Project | Contribution |
+| :--- | :--- |
+| ⚙️ [**worker_manager**](https://github.com/dsrenesanse/worker_manager) ![stars](https://img.shields.io/github/stars/dsrenesanse/worker_manager?style=flat-square&label=%E2%98%85&color=555) | [Report task progress from isolates](https://github.com/dsrenesanse/worker_manager/pull/58) |
+| ✍️ [**html-editor-enhanced**](https://github.com/tneotia/html-editor-enhanced) ![stars](https://img.shields.io/github/stars/tneotia/html-editor-enhanced?style=flat-square&label=%E2%98%85&color=555) | [Fix editor height for empty initial text](https://github.com/tneotia/html-editor-enhanced/pull/233) |
+| 🌐 [**universal_html**](https://github.com/dint-dev/universal_html) ![stars](https://img.shields.io/github/stars/dint-dev/universal_html?style=flat-square&label=%E2%98%85&color=555) | [Fix `BroadcastChannel` on `dart.library.io`](https://github.com/dint-dev/universal_html/pull/97) |
+| 📄 [**flutter_pdf_render**](https://github.com/espresso3389/flutter_pdf_render) ![stars](https://img.shields.io/github/stars/espresso3389/flutter_pdf_render?style=flat-square&label=%E2%98%85&color=555) | [Fix JS memory leak](https://github.com/espresso3389/flutter_pdf_render/pull/147) · [wheel-to-scroll](https://github.com/espresso3389/flutter_pdf_render/pull/144) · [outside-click events](https://github.com/espresso3389/flutter_pdf_render/pull/148) |
+| 📝 [**languagetool_textfield**](https://github.com/solid-software/languagetool_textfield) ![stars](https://img.shields.io/github/stars/solid-software/languagetool_textfield?style=flat-square&label=%E2%98%85&color=555) | [Expose TextField properties](https://github.com/solid-software/languagetool_textfield/pull/83) |
+| 🔤 [**flutter_charset_detector**](https://github.com/amake/flutter_charset_detector) ![stars](https://img.shields.io/github/stars/amake/flutter_charset_detector?style=flat-square&label=%E2%98%85&color=555) | [Add web support](https://github.com/amake/flutter_charset_detector/pull/6) |
+| 🧭 [**dns_client**](https://github.com/amondnet/dns_client) ![stars](https://img.shields.io/github/stars/amondnet/dns_client?style=flat-square&label=%E2%98%85&color=555) | [DNS lookup by record type](https://github.com/amondnet/dns_client/pull/9) |
+
+## 📦 Personal Projects
+
+### Dart & Flutter packages
+
+| Package | Description | pub.dev |
+| :--- | :--- | :---: |
+| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | [![pub](https://img.shields.io/pub/v/super_tag_editor?style=flat-square&color=1565C0)](https://pub.dev/packages/super_tag_editor) [![likes](https://img.shields.io/pub/likes/super_tag_editor?style=flat-square&color=02C39A)](https://pub.dev/packages/super_tag_editor/score) [![downloads](https://img.shields.io/pub/dm/super_tag_editor?style=flat-square&color=0B1F3A)](https://pub.dev/packages/super_tag_editor) |
+| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | [![pub](https://img.shields.io/pub/v/super_dns_client?style=flat-square&color=1565C0)](https://pub.dev/packages/super_dns_client) [![likes](https://img.shields.io/pub/likes/super_dns_client?style=flat-square&color=02C39A)](https://pub.dev/packages/super_dns_client/score) [![downloads](https://img.shields.io/pub/dm/super_dns_client?style=flat-square&color=0B1F3A)](https://pub.dev/packages/super_dns_client) |
+| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | [![pub](https://img.shields.io/pub/v/middle_ellipsis_text?style=flat-square&color=1565C0)](https://pub.dev/packages/middle_ellipsis_text) [![likes](https://img.shields.io/pub/likes/middle_ellipsis_text?style=flat-square&color=02C39A)](https://pub.dev/packages/middle_ellipsis_text/score) [![downloads](https://img.shields.io/pub/dm/middle_ellipsis_text?style=flat-square&color=0B1F3A)](https://pub.dev/packages/middle_ellipsis_text) |
+| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | [![pub](https://img.shields.io/pub/v/flutter_super_html_viewer?style=flat-square&color=1565C0)](https://pub.dev/packages/flutter_super_html_viewer) [![likes](https://img.shields.io/pub/likes/flutter_super_html_viewer?style=flat-square&color=02C39A)](https://pub.dev/packages/flutter_super_html_viewer/score) |
+| 🧬 [**super_dns**](https://github.com/dab246/super_dns) · [**super_ip**](https://github.com/dab246/super_ip) · [**super_raw**](https://github.com/dab246/super_raw) | Networking stack: DNS protocol, IPv4/IPv6/TCP/UDP, binary data | [![pub](https://img.shields.io/pub/v/super_dns?style=flat-square&color=1565C0)](https://pub.dev/packages/super_dns) |
+| 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | [![pub](https://img.shields.io/pub/v/super_file_size?style=flat-square&color=1565C0)](https://pub.dev/packages/super_file_size) |
+
+### Apps & AI tools
+
+| Project | Description | Stack |
+| :--- | :--- | :---: |
+| 🧪 [**qa-agent-kit**](https://github.com/dab246/qa-agent-kit) | Evidence-driven QA for pull requests: deterministic permission testing, evidence registry and a GO/NO_GO release gate, with AI-assisted triage | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ♟️ [**ai-chess-master**](https://github.com/dab246/ai-chess-master) | Online Chinese chess (Xiangqi): Alpha-Beta search engine, Gemini-powered move analysis & hints, game history and leaderboard | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| ⏱️ [**ChronoWork**](https://github.com/dab246/ChronoWork) · [live](https://dab246.github.io/ChronoWork/) | Work-hour logging, leave tracking & weekly performance reports | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ## 📊 GitHub Analytics
 
