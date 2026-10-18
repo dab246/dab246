@@ -137,7 +137,7 @@ flowchart LR
 <!-- ORG_PROJECTS:START -->
 | Project | Description | Stars | My contribution |
 | :--- | :--- | :---: | :--- |
-| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;659 | **#1 contributor** · 3.6k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
+| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;660 | **#1 contributor** · 3.6k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 🔌 [**jmap-dart-client**](https://github.com/linagora/jmap-dart-client) | JMAP protocol client library in Dart, the foundation of Twake Mail | ⭐&nbsp;41 | **#1 contributor** · 101 commits · [48 merged PRs](https://github.com/linagora/jmap-dart-client/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📁 [**LinShare Mobile**](https://github.com/linagora/linshare-mobile-flutter-app) | Flutter mobile app for LinShare, an open-source secure file-sharing platform | ⭐&nbsp;17 | **#2 contributor** · 221 commits · [96 merged PRs](https://github.com/linagora/linshare-mobile-flutter-app/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📅 [**flutter-date-range-picker**](https://github.com/linagora/flutter-date-range-picker) | Cross-platform custom date range picker | ⭐&nbsp;11 | **#1 contributor** · 16 commits · [6 merged PRs](https://github.com/linagora/flutter-date-range-picker/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
