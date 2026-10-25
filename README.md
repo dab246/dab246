@@ -137,7 +137,7 @@ flowchart LR
 <!-- ORG_PROJECTS:START -->
 | Project | Description | Stars | My contribution |
 | :--- | :--- | :---: | :--- |
-| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;660 | **#1 contributor** · 3.6k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
+| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;661 | **#1 contributor** · 3.6k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 🔌 [**jmap-dart-client**](https://github.com/linagora/jmap-dart-client) | JMAP protocol client library in Dart, the foundation of Twake Mail | ⭐&nbsp;41 | **#1 contributor** · 101 commits · [48 merged PRs](https://github.com/linagora/jmap-dart-client/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📁 [**LinShare Mobile**](https://github.com/linagora/linshare-mobile-flutter-app) | Flutter mobile app for LinShare, an open-source secure file-sharing platform | ⭐&nbsp;17 | **#2 contributor** · 221 commits · [96 merged PRs](https://github.com/linagora/linshare-mobile-flutter-app/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📅 [**flutter-date-range-picker**](https://github.com/linagora/flutter-date-range-picker) | Cross-platform custom date range picker | ⭐&nbsp;11 | **#1 contributor** · 16 commits · [6 merged PRs](https://github.com/linagora/flutter-date-range-picker/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
@@ -171,12 +171,12 @@ flowchart LR
 | :--- | :--- | :---: | :--- |
 | 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.0](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 3.7k/mo |
 | 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 4.1k/mo |
-| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 138/mo |
+| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 131/mo |
 | ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 2.7k/mo |
-| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.6k/mo |
+| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.7k/mo |
 | 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | ⭐&nbsp;1 | [v1.0.0](https://pub.dev/packages/super_file_size) · 👍 1 · ⬇️ 7/mo |
-| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.6k/mo |
-| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.6k/mo |
+| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.7k/mo |
+| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.7k/mo |
 <!-- PACKAGES:END -->
 
 ### Apps & AI tools
@@ -185,8 +185,8 @@ flowchart LR
 | Project | Description | Stars | Stack |
 | :--- | :--- | :---: | :--- |
 | ⏱️ [**ChronoWork**](https://github.com/dab246/ChronoWork) · [live](https://dab246.github.io/ChronoWork/) | Work-hour logging, leave tracking & weekly performance reports | ⭐&nbsp;1 | TypeScript |
+| 🔹 [**github-stars-radar**](https://github.com/dab246/github-stars-radar) · [live](https://dab246.github.io/github-stars-radar/) | Top-starred new GitHub repositories of the week, month and year: AI tools, AI agents, mobile, web and languag… | ⭐&nbsp;1 | JavaScript |
 | 🧪 [**qa-agent-kit**](https://github.com/dab246/qa-agent-kit) | Evidence-driven PR QA: deterministic permission tests, evidence registry and a GO/NO\_GO release gate | ⭐&nbsp;0 | TypeScript |
-| 🔹 [**github-stars-radar**](https://github.com/dab246/github-stars-radar) · [live](https://dab246.github.io/github-stars-radar/) | Top-starred new GitHub repositories of the week, month and year: AI tools, AI agents, mobile, web and languag… | ⭐&nbsp;0 | JavaScript |
 | ♟️ [**ai-chess-master**](https://github.com/dab246/ai-chess-master) | Online Chinese chess (Xiangqi): Alpha-Beta search engine, Gemini-powered move analysis & hints, leaderboard | ⭐&nbsp;0 | React · Gemini |
 <!-- APPS:END -->
 
