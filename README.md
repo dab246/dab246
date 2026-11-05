@@ -127,7 +127,7 @@ flowchart LR
 <div align="center">
 
 <!-- HIGHLIGHTS:START -->
-<a href="https://github.com/linagora/tmail-flutter/graphs/contributors"><img src="https://img.shields.io/badge/Twake%20Mail-%231%20contributor-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Twake Mail #1 contributor" /></a> <img src="https://img.shields.io/badge/Twake%20Mail%20commits-3.6k%2B-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /> <a href="https://github.com/search?q=author%3Adab246+is%3Apr+is%3Amerged+-user%3Adab246&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-1.3k%2B-8957E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged PRs" /></a>
+<a href="https://github.com/linagora/tmail-flutter/graphs/contributors"><img src="https://img.shields.io/badge/Twake%20Mail-%231%20contributor-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Twake Mail #1 contributor" /></a> <img src="https://img.shields.io/badge/Twake%20Mail%20commits-3.6k%2B-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /> <a href="https://github.com/search?q=author%3Adab246+is%3Apr+is%3Amerged+-user%3Adab246&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-1.4k%2B-8957E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged PRs" /></a>
 <!-- HIGHLIGHTS:END -->
 
 </div>
@@ -143,7 +143,7 @@ flowchart LR
 | 📅 [**flutter-date-range-picker**](https://github.com/linagora/flutter-date-range-picker) | Cross-platform custom date range picker | ⭐&nbsp;11 | **#1 contributor** · 16 commits · [6 merged PRs](https://github.com/linagora/flutter-date-range-picker/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | ✍️ [**rich-text-composer**](https://github.com/linagora/rich-text-composer) | Unified rich text composer powering the mail composer | ⭐&nbsp;6 | **#2 contributor** · 21 commits · [10 merged PRs](https://github.com/linagora/rich-text-composer/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 🖋️ [**html-editor-enhanced**](https://github.com/linagora/html-editor-enhanced) | WYSIWYG HTML editor for Flutter (Summernote + InAppWebView) | ⭐&nbsp;5 | [45 merged PRs](https://github.com/linagora/html-editor-enhanced/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
-| 🎨 [**linagora-design-flutter**](https://github.com/linagora/linagora-design-flutter) | Enterprise UI design language & Flutter component library | ⭐&nbsp;3 | **#1 contributor** · 76 commits · [24 merged PRs](https://github.com/linagora/linagora-design-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
+| 🎨 [**linagora-design-flutter**](https://github.com/linagora/linagora-design-flutter) | Enterprise UI design language & Flutter component library | ⭐&nbsp;3 | **#1 contributor** · 77 commits · [25 merged PRs](https://github.com/linagora/linagora-design-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📝 [**enough_html_editor**](https://github.com/linagora/enough_html_editor) | API-based HTML editor for Flutter | ⭐&nbsp;2 | [21 merged PRs](https://github.com/linagora/enough_html_editor/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 <!-- ORG_PROJECTS:END -->
 
@@ -169,14 +169,14 @@ flowchart LR
 <!-- PACKAGES:START -->
 | Package | Description | Stars | pub.dev |
 | :--- | :--- | :---: | :--- |
-| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.0](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 3.4k/mo |
-| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 3.9k/mo |
-| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 116/mo |
-| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 2.8k/mo |
-| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.6k/mo |
-| 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | ⭐&nbsp;1 | [v1.0.0](https://pub.dev/packages/super_file_size) · 👍 1 · ⬇️ 7/mo |
-| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.6k/mo |
-| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.6k/mo |
+| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.0](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 624/mo |
+| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 808/mo |
+| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 12/mo |
+| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 635/mo |
+| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 803/mo |
+| 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | ⭐&nbsp;1 | [v1.0.0](https://pub.dev/packages/super_file_size) · 👍 1 · ⬇️ 2/mo |
+| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 801/mo |
+| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 800/mo |
 <!-- PACKAGES:END -->
 
 ### Apps & AI tools
