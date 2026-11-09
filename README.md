@@ -153,7 +153,7 @@ flowchart LR
 | Project | Stars | Merged contributions |
 | :--- | :---: | :--- |
 | ⚙️ [**worker_manager**](https://github.com/dsrenesanse/worker_manager) | ⭐&nbsp;334 | [Update task completion progress in isolate](https://github.com/dsrenesanse/worker_manager/pull/58) |
-| 🖋️ [**html-editor-enhanced**](https://github.com/tneotia/html-editor-enhanced) | ⭐&nbsp;297 | [Fix height when initText is null or empty](https://github.com/tneotia/html-editor-enhanced/pull/233) |
+| 🖋️ [**html-editor-enhanced**](https://github.com/tneotia/html-editor-enhanced) | ⭐&nbsp;298 | [Fix height when initText is null or empty](https://github.com/tneotia/html-editor-enhanced/pull/233) |
 | 🌐 [**universal_html**](https://github.com/dint-dev/universal_html) | ⭐&nbsp;208 | [BroadcastChannel method not found when run on `dart.library.io`](https://github.com/dint-dev/universal_html/pull/97) |
 | 📄 [**flutter_pdf_render**](https://github.com/espresso3389/flutter_pdf_render) <sub>archived</sub> | ⭐&nbsp;108 | [Listen for outside click trigger events in PDF Viewer](https://github.com/espresso3389/flutter_pdf_render/pull/148) · [Fix js instance memory leak when close PDFViewer](https://github.com/espresso3389/flutter_pdf_render/pull/147) · [Forked InteractiveViewer code to support `wheel-to-scroll`](https://github.com/espresso3389/flutter_pdf_render/pull/144) |
 | 📝 [**languagetool_textfield**](https://github.com/solid-software/languagetool_textfield) | ⭐&nbsp;40 | [Add some properties (cursorColor, onTextChange, focusNode, onT…](https://github.com/solid-software/languagetool_textfield/pull/83) |
@@ -169,14 +169,14 @@ flowchart LR
 <!-- PACKAGES:START -->
 | Package | Description | Stars | pub.dev |
 | :--- | :--- | :---: | :--- |
-| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.0](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 3.4k/mo |
-| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 4k/mo |
-| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 105/mo |
-| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 3k/mo |
-| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.9k/mo |
+| 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.0](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 3.1k/mo |
+| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 3.7k/mo |
+| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 92/mo |
+| ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 2.8k/mo |
+| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.6k/mo |
 | 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | ⭐&nbsp;1 | [v1.0.0](https://pub.dev/packages/super_file_size) · 👍 1 · ⬇️ 6/mo |
-| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.9k/mo |
-| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.9k/mo |
+| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.6k/mo |
+| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.6k/mo |
 <!-- PACKAGES:END -->
 
 ### Apps & AI tools
