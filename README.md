@@ -43,7 +43,7 @@ class DatVu extends SoftwareEngineer {
 }
 ```
 
-- 🏆 <!-- ABOUT:START -->**#1 contributor** to **[Twake Mail](https://github.com/linagora/tmail-flutter)** (3.6k+ commits), an open-source, multi-platform email client on the JMAP protocol.<!-- ABOUT:END -->
+- 🏆 <!-- ABOUT:START -->**#1 contributor** to **[Twake Mail](https://github.com/linagora/tmail-flutter)** (3.7k+ commits), an open-source, multi-platform email client on the JMAP protocol.<!-- ABOUT:END -->
 - 📦 Maintaining Dart & Flutter packages on **pub.dev** ([see below](#-personal-projects)), from UI widgets to a DNS/IP networking stack.
 - 🤖 Learning, researching and building **AI tools that automate the software lifecycle**, from spec to review, QA and release, to cut delivery time without lowering the quality bar ([more](#-ai-powered-engineering)).
 - 🌱 Currently researching **multi-agent orchestration**, **MCP** integrations and **LLM evaluation & guardrails**.
@@ -127,7 +127,7 @@ flowchart LR
 <div align="center">
 
 <!-- HIGHLIGHTS:START -->
-<a href="https://github.com/linagora/tmail-flutter/graphs/contributors"><img src="https://img.shields.io/badge/Twake%20Mail-%231%20contributor-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Twake Mail #1 contributor" /></a> <img src="https://img.shields.io/badge/Twake%20Mail%20commits-3.6k%2B-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /> <a href="https://github.com/search?q=author%3Adab246+is%3Apr+is%3Amerged+-user%3Adab246&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-1.4k%2B-8957E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged PRs" /></a>
+<a href="https://github.com/linagora/tmail-flutter/graphs/contributors"><img src="https://img.shields.io/badge/Twake%20Mail-%231%20contributor-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Twake Mail #1 contributor" /></a> <img src="https://img.shields.io/badge/Twake%20Mail%20commits-3.7k%2B-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /> <a href="https://github.com/search?q=author%3Adab246+is%3Apr+is%3Amerged+-user%3Adab246&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-1.4k%2B-8957E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged PRs" /></a>
 <!-- HIGHLIGHTS:END -->
 
 </div>
@@ -137,7 +137,7 @@ flowchart LR
 <!-- ORG_PROJECTS:START -->
 | Project | Description | Stars | My contribution |
 | :--- | :--- | :---: | :--- |
-| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;666 | **#1 contributor** · 3.6k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
+| 📬 [**Twake Mail**](https://github.com/linagora/tmail-flutter) | Multi-platform JMAP email client for Android, iOS and Web | ⭐&nbsp;667 | **#1 contributor** · 3.7k+ commits · [1.1k+ merged PRs](https://github.com/linagora/tmail-flutter/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 🔌 [**jmap-dart-client**](https://github.com/linagora/jmap-dart-client) | JMAP protocol client library in Dart, the foundation of Twake Mail | ⭐&nbsp;41 | **#1 contributor** · 101 commits · [48 merged PRs](https://github.com/linagora/jmap-dart-client/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📁 [**LinShare Mobile**](https://github.com/linagora/linshare-mobile-flutter-app) | Flutter mobile app for LinShare, an open-source secure file-sharing platform | ⭐&nbsp;17 | **#2 contributor** · 221 commits · [96 merged PRs](https://github.com/linagora/linshare-mobile-flutter-app/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
 | 📅 [**flutter-date-range-picker**](https://github.com/linagora/flutter-date-range-picker) | Cross-platform custom date range picker | ⭐&nbsp;11 | **#1 contributor** · 16 commits · [6 merged PRs](https://github.com/linagora/flutter-date-range-picker/pulls?q=is%3Apr+is%3Amerged+author%3Adab246) |
@@ -170,13 +170,13 @@ flowchart LR
 | Package | Description | Stars | pub.dev |
 | :--- | :--- | :---: | :--- |
 | 🏷️ [**super_tag_editor**](https://github.com/dab246/super_tag_editor) | Tag editor widget for Flutter | ⭐&nbsp;17 | [v1.1.1](https://pub.dev/packages/super_tag_editor) · 👍 43 · ⬇️ 2.9k/mo |
-| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 3.7k/mo |
-| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 99/mo |
+| 🌐 [**super_dns_client**](https://github.com/dab246/super_dns_client) | DNS-over-HTTPS (DoH) lookups with multiple resolvers | ⭐&nbsp;4 | [v0.3.11](https://pub.dev/packages/super_dns_client) · 👍 4 · ⬇️ 3.8k/mo |
+| 🖼️ [**flutter_super_html_viewer**](https://github.com/dab246/flutter_super_html_viewer) | Cross-platform HTML viewer widget | ⭐&nbsp;2 | [v0.1.0](https://pub.dev/packages/flutter_super_html_viewer) · 👍 19 · ⬇️ 102/mo |
 | ✂️ [**middle_ellipsis_text**](https://github.com/dab246/middle_ellipsis_text) | Middle-ellipsis text for filenames & URLs | ⭐&nbsp;2 | [v1.0.0](https://pub.dev/packages/middle_ellipsis_text) · 👍 3 · ⬇️ 2.8k/mo |
-| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.7k/mo |
+| 🧬 [**super_dns**](https://github.com/dab246/super_dns) | DNS protocol: query parsing, encoding and responses (IPv4/IPv6) | ⭐&nbsp;1 | [v0.1.1](https://pub.dev/packages/super_dns) · 👍 0 · ⬇️ 3.8k/mo |
 | 📏 [**super_file_size**](https://github.com/dab246/super_file_size) | Human-readable file sizes from raw bytes | ⭐&nbsp;1 | [v1.0.0](https://pub.dev/packages/super_file_size) · 👍 1 · ⬇️ 5/mo |
-| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.7k/mo |
-| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.7k/mo |
+| 🧱 [**super_raw**](https://github.com/dab246/super_raw) | Write, read and debug binary data efficiently | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_raw) · 👍 1 · ⬇️ 3.8k/mo |
+| 📡 [**super_ip**](https://github.com/dab246/super_ip) | IP protocol stack: IPv4, IPv6, ICMP, TCP, UDP | ⭐&nbsp;1 | [v0.1.0](https://pub.dev/packages/super_ip) · 👍 0 · ⬇️ 3.8k/mo |
 <!-- PACKAGES:END -->
 
 ### Apps & AI tools
